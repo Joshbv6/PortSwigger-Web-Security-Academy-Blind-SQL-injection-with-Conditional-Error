@@ -1,4 +1,4 @@
-# [Blind SQL Injection Lab – PortSwigger Web Security Academy(https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors)]
+# [Blind SQL Injection Lab – PortSwigger Web Security Academy](https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors)
 
 This project contains a small Python script created to solve a Blind SQL Injection lab from the PortSwigger Web Security Academy.
 
